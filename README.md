@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**nicoomarino/nicoomarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Nicolás Marino
+A passionate frontend developer from Argentina.
+👨‍💻 All of my projects are available at my portfolio https://nicolasmarino.netlify.app/
+📫 How to reach me through my linkedin https://www.linkedin.com/in/nicol%C3%A1s-marino-8a12672a9/
+⚡ Fun fact : I believe I am empathic
+Languages and Tools:
+CSS3
+GIT
+HTML5
+JavaScript
+React
+TailwindCSS
+NodeJS
